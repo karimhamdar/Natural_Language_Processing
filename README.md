@@ -18,5 +18,12 @@ This project presents a comprehensive analysis of sentiment analysis techniques 
 - Luca Tusini
 - Karim Eugenio Hamdar
 
+## Contact:
+- karimhamdar09@gmail.com
+- www.linkedin.com/in/karim-hamdar-326046327
+
+
 ## Supervisor
-Professor Giovanni Da San Martino
+- Prof. Giovanni Da San Martino
+
+
